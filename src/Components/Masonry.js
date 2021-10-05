@@ -34,7 +34,9 @@ export const MasonryComponent = (props) => {
                       height: "300px",
                       background: data,
                     }}
-                  ></div>
+                  >
+                    <storg>{data}</storg>
+                  </div>
                 );
               }}
             </Color>
