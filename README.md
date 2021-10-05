@@ -25,7 +25,7 @@ Your app is ready to be deployed!
 ### `Project Details`
 
 With help of two libraries i have completed the project.
-- [Unsplash API](https://unsplash.com/developers) To load images based on word.
-- [Color Thief](https://lokeshdhakar.com/projects/color-thief/) To Find Dominant Color in images which is reated to the word.
+- [Unsplash API](https://unsplash.com/developers) is used to load images based on word.
+- [color-thief-react](https://www.npmjs.com/package/color-thief-react) is used to Find Dominant Color in images which is reated to the word.
 
 Application Deployed link : [Color A Word](https://admiring-heisenberg-d896e7.netlify.app/)
